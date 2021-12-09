@@ -25,7 +25,7 @@ printresult($i, $result);
 
 
 /*
-$info = "bestimmen user ausgeben:";
+$info = "bestimmten user ausgeben:";
 $params = array('criteria' => array(array('key' => 'email', 'value' => 'Fakeemail@gmail.com'))); 
 $result = $MoodleRest->request('core_user_get_users', $params);
 printresult($info, $result);
